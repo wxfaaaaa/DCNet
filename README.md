@@ -22,6 +22,6 @@ python test_ACDC.py  #for ACDC testing
 ## Citation
 
 ## Acknowledgements
-Our code is adapted from MC-Net, SSNet, and SSL4MIS. Thanks to these authors for their valuable works and hope our model can promote the relevant research as well.
+Our code is adapted from [MC-Net](https://github.com/ycwu1997/MC-Net), [SSNet](https://github.com/ycwu1997/SS-Net), and [SSL4MIS](https://github.com/HiLab-git/SSL4MIS). Thanks to these authors for their valuable works and hope our model can promote the relevant research as well.
 ## Questions
 If you have any questions, welcome contact me at 'chenfaquan@stu.xmu.edu.cn'
