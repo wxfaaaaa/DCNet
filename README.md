@@ -7,7 +7,7 @@ This repository is based on PyTorch 1.8.1, CUDA 10.1, and Python 3.6.13. All exp
 ## Usage
 We provide code, data_split, and models for PROMISE12 and ACDC datasets.
 
-Data could be got at PROMISE12 and ACDC.
+Data could be got at PROMISE12 and [ACDC](https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html).
 
 To train a model,
 ```
