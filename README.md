@@ -7,12 +7,12 @@ This repository is based on PyTorch 1.8.1, CUDA 10.1, and Python 3.6.13. All exp
 ## Usage
 We provide code, data_split, and models for PROMISE12 and ACDC datasets.
 
-Data could be got at LA and ACDC.
+Data could be got at PROMISE12 and ACDC.
 
 To train a model,
 ```
-python LA_BCP_train.py  #for Prostate training
-python ACDC_BCP_train.py  #for ACDC training
+python train_dcnet_prostate.py  #for Prostate training
+python train_dcnet_acdc.py  #for ACDC training
 ```
 To test a model,
 ```
